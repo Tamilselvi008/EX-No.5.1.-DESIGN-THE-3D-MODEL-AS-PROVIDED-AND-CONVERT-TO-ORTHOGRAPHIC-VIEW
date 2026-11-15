@@ -153,7 +153,7 @@ To create orthographic view of given 3D model
 3. Enter the required fillet radius.
 4. Check the preview for overlaps or failed edges.
 5. Confirm the fillet.
-6. <img width="1920" height="1015" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/547022f8-57b0-47da-bf79-92a793e20488" />
+<img width="1920" height="1021" alt="Screenshot (404)" src="https://github.com/user-attachments/assets/bdab5681-8845-4226-82d4-68963b199d78" />
 
 ## 12. Apply the final edge fillets
 
