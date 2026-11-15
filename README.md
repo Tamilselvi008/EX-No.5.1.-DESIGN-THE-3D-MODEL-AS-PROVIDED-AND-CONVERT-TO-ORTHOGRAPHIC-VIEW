@@ -17,16 +17,14 @@ To create orthographic view of given 3D model
 1. Open a new Fusion 360 design and set the document units.
 2. Select **Create Sketch**, then choose the **XY plane**.
 <img width="1920" height="1004" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/0fe8c901-81b3-4347-ad1d-f86b5283f559" />
+3. From **Create**, choose **Slot → Two-Point Slot**.
+4. Click the first endpoint, click the second endpoint, then move the cursor to set the slot width and click again.
+5. <img width="1920" height="1007" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/6e5c8a12-6c5e-4273-89f3-f1bdc8f22319" />
 
-
-4. From **Create**, choose **Slot → Two-Point Slot**.
-5. Click the first endpoint, click the second endpoint, then move the cursor to set the slot width and click again.
-6. <img width="1920" height="1007" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/6e5c8a12-6c5e-4273-89f3-f1bdc8f22319" />
-
-7. Enter the required slot length and width, or dimension them later with **Sketch Dimension**.
-8. Finish the sketch.
-9. Select the slot profile and choose **Extrude**.
-10. Set the distance to **15 mm** and confirm.
+6. Enter the required slot length and width, or dimension them later with **Sketch Dimension**.
+7. Finish the sketch.
+8. Select the slot profile and choose **Extrude**.
+9. Set the distance to **15 mm** and confirm.
 <img width="1920" height="1010" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/b84043a4-25c7-4177-9287-d5b456ce87fe" />
 
 ## 2. Sketch the circular layout on the top face
@@ -63,8 +61,7 @@ To create orthographic view of given 3D model
    - Add the mounting circles with **6 mm radius** and the specified **100 mm** spacing.
    - Connect the mounting-circle areas to the **Ø55 mm** circle with lines.
 4. Finish the sketch.
-5. <img width="1920" height="1013" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/20730c2c-531b-49b4-aba8-352651e09099" />
-
+ <img width="1920" height="1013" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/20730c2c-531b-49b4-aba8-352651e09099" />
 6. Select the required closed profiles and choose **Extrude**.
 7. Set the direction outward from the bottom face and enter **25 mm**.
 8. Confirm the extrusion. Check the preview arrow before confirming so the feature extends downward from the part.
@@ -76,10 +73,11 @@ To create orthographic view of given 3D model
 2. Draw a circle at its center.
 3. Dimension its **radius to 5 mm**. This is a **Ø10 mm** hole.
    ![Uploading Screenshot (382).png…]
-6. Finish the sketch.
-7. Select the hole profiles and choose **Extrude → Cut**.
-8. Set the extent to **Through All** if the holes should pass through the part; otherwise enter the required depth.
-9. Confirm the cut.
+4. Finish the sketch.
+5. Select the hole profiles and choose **Extrude → Cut**.
+6. Set the extent to **Through All** if the holes should pass through the part; otherwise enter the required depth.
+7. Confirm the cut.
+<img width="1920" height="1015" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/5ab9c941-e7f6-4603-87b8-03e49f0d1933" />
 
 ## 5. Add the central opening and internal details
 
@@ -93,19 +91,19 @@ To create orthographic view of given 3D model
    - Draw the first line across the intended area.
    - Draw the second line parallel to it.
    - Dimension the gap between the lines to **5 mm**.
-7. Select trim options to remove the extra parts of the lines.
+6. Select trim options to remove the extra parts of the lines.
    <img width="1920" height="1017" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/1eb66a95-32fa-4791-a894-f16c9fd210d7" />
-6. Finish the sketch.
+7. Finish the sketch.
 ## 6. Circular-pattern the internal lines
 
 1. Select **Create → Pattern → Circular Pattern**.
 <img width="1920" height="1010" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/1508c30c-a16a-46d3-83b0-4c6a38ed40b7" />
 
-3. Set **Pattern Type** to **Features** if you have already extruded the lines; use **Faces** or **Sketch Objects** if they remain sketch geometry.
-4. Select the two line-based features or sketch objects.
-5. Select the central axis of the circular opening as the pattern axis.
-7. Preview the pattern and confirm that the repeated details are evenly spaced around the center.
-8. Click **OK**.
+2. Set **Pattern Type** to **Features** if you have already extruded the lines; use **Faces** or **Sketch Objects** if they remain sketch geometry.
+3. Select the two line-based features or sketch objects.
+4. Select the central axis of the circular opening as the pattern axis.
+5. Preview the pattern and confirm that the repeated details are evenly spaced around the center.
+6. Click **OK**.
 <img width="1920" height="1015" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/ab99782d-7709-40f9-be8e-1b4c86db199f" />
 ### 7. Create the 55 mm angular dimension
 
@@ -115,7 +113,7 @@ To create orthographic view of given 3D model
 4. Enter **55°** and press **Enter**.
 5. Click **Finish Sketch**.
 6. <img width="1920" height="1002" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/82ea6c99-783f-473e-afc1-723448ab48a2" />
-### Counterbored holes in the base
+### 8.Counterbored holes in the base
 
 1. Sketch mounting-hole points on the base and dimension their positions.
 2. Choose **Create → Hole**, select the points, and set **Hole Type** to **Counterbore**.
@@ -123,7 +121,7 @@ To create orthographic view of given 3D model
 4. Check the preview and confirm.
 5. Then choose mirror option to make it on all four corners.
 6. <img width="1920" height="1004" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/46c32b8b-e914-4288-ada7-df955189f20c" />
-## 8. Create offset planes and side rectangles
+## 9. Create offset planes and side rectangles
 
 1. Choose **Construct → Offset Plane**.
 2. Select the first side face or reference plane.
@@ -138,7 +136,7 @@ To create orthographic view of given 3D model
 10. Repeat on the second offset plane to draw the matching rectangle.
 11. Select each rectangle profile and use **Extrude** with the appropriate operation and distance to create the side features.
 
-## 9. Chamfer both sides
+## 10. Chamfer both sides
 
 1. Choose **Modify → Chamfer**.
 2. Select the edges on the first side that need trimming.
@@ -148,7 +146,7 @@ To create orthographic view of given 3D model
 6. Confirm the feature.
 <img width="1920" height="993" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/c46210d8-2f17-467e-8dec-3ce0eab8496e" />
 
-7. ## 7. Fillet the internal line edges
+## 11. Fillet the internal line edges
 
 1. Choose **Modify → Fillet**.
 2. Select the sharp edges around the internal line features.
@@ -157,14 +155,14 @@ To create orthographic view of given 3D model
 5. Confirm the fillet.
 6. <img width="1920" height="1015" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/547022f8-57b0-47da-bf79-92a793e20488" />
 
-## 10. Apply the final edge fillets
+## 12. Apply the final edge fillets
 
 1. Choose **Modify → Fillet**.
 2. Select the remaining exterior edges that should be rounded. You can select multiple edges, but avoid selecting edges that already have fillets or chamfers if that causes errors.
 3. Enter the required final radius.
 <img width="1920" height="999" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/73089a90-4666-4f45-beee-37daa05bc0b7" />
 
-## 12. Create the drawing
+## 13. Create the drawing
 
 1. In the Design workspace, choose **File → New Drawing → From Design**.
 2. Select the sheet size, units, and projection angle required for your drawing.
