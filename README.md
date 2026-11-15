@@ -16,7 +16,8 @@ To create orthographic view of given 3D model
 
 1. Open a new Fusion 360 design and set the document units.
 2. Select **Create Sketch**, then choose the **XY plane**.
-3. <img width="1920" height="1007" alt="Screenshot (344)" src="https://github.com/user-attachments/assets/f5b9f463-c39b-456c-9d16-e2f5110cd4df" />
+<img width="1920" height="1004" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/0fe8c901-81b3-4347-ad1d-f86b5283f559" />
+
 
 4. From **Create**, choose **Slot → Two-Point Slot**.
 5. Click the first endpoint, click the second endpoint, then move the cursor to set the slot width and click again.
@@ -98,7 +99,7 @@ To create orthographic view of given 3D model
 ## 6. Circular-pattern the internal lines
 
 1. Select **Create → Pattern → Circular Pattern**.
-2. <img width="1920" height="1010" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/dcde126d-51a6-4aa2-a591-70a53220f5e6" />
+<img width="1920" height="1010" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/1508c30c-a16a-46d3-83b0-4c6a38ed40b7" />
 
 3. Set **Pattern Type** to **Features** if you have already extruded the lines; use **Faces** or **Sketch Objects** if they remain sketch geometry.
 4. Select the two line-based features or sketch objects.
@@ -106,6 +107,14 @@ To create orthographic view of given 3D model
 7. Preview the pattern and confirm that the repeated details are evenly spaced around the center.
 8. Click **OK**.
 <img width="1920" height="1015" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/ab99782d-7709-40f9-be8e-1b4c86db199f" />
+### 7. Create the 55 mm angular dimension
+
+1. In the active sketch, choose **Sketch Dimension**.
+2. Select the two lines that form the angle.
+3. Move the cursor to position the angular dimension, then click.
+4. Enter **55°** and press **Enter**.
+5. Click **Finish Sketch**.
+6. <img width="1920" height="1002" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/82ea6c99-783f-473e-afc1-723448ab48a2" />
 
 ## 8. Create offset planes and side rectangles
 
@@ -139,7 +148,8 @@ To create orthographic view of given 3D model
 3. Enter the required fillet radius.
 4. Check the preview for overlaps or failed edges.
 5. Confirm the fillet.
-6. 
+6. <img width="1920" height="1015" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/547022f8-57b0-47da-bf79-92a793e20488" />
+
 ### Counterbored holes in the base
 
 1. Sketch mounting-hole points on the base and dimension their positions.
