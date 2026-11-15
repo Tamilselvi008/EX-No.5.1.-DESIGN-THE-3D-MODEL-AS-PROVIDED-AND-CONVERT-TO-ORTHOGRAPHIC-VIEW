@@ -19,12 +19,12 @@ To create orthographic view of given 3D model
 <img width="1920" height="1004" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/0fe8c901-81b3-4347-ad1d-f86b5283f559" />
 3. From **Create**, choose **Slot → Two-Point Slot**.
 4. Click the first endpoint, click the second endpoint, then move the cursor to set the slot width and click again.
-5. <img width="1920" height="1007" alt="Screenshot (399)" src="https://github.com/user-attachments/assets/6e5c8a12-6c5e-4273-89f3-f1bdc8f22319" />
+<img width="1920" height="1014" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/a504f91f-3733-4fae-b4a2-a449172dc6be" />
 
-6. Enter the required slot length and width, or dimension them later with **Sketch Dimension**.
-7. Finish the sketch.
-8. Select the slot profile and choose **Extrude**.
-9. Set the distance to **15 mm** and confirm.
+5. Enter the required slot length and width, or dimension them later with **Sketch Dimension**.
+6. Finish the sketch.
+7. Select the slot profile and choose **Extrude**.
+8. Set the distance to **15 mm** and confirm.
 <img width="1920" height="1010" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/b84043a4-25c7-4177-9287-d5b456ce87fe" />
 
 ## 2. Sketch the circular layout on the top face
