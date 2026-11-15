@@ -105,7 +105,8 @@ To create orthographic view of given 3D model
 5. Preview the pattern and confirm that the repeated details are evenly spaced around the center.
 6. Click **OK**.
 <img width="1920" height="1015" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/ab99782d-7709-40f9-be8e-1b4c86db199f" />
-### 7. Create the 55 mm angular dimension
+
+### 7.Create the 55 mm angular dimension
 
 1. In the active sketch, choose **Sketch Dimension**.
 2. Select the two lines that form the angle.
