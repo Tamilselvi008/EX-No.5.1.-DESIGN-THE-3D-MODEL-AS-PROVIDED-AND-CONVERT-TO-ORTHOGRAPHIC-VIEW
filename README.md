@@ -1,4 +1,4 @@
-<img width="1920" height="1015" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/7057edc0-73d1-4ea4-b23a-1a14b23ef51b" /># EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:11/11/2026
 
 ## AIM: 
