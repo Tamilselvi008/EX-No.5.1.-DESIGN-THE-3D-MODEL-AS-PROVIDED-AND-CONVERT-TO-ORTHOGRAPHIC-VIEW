@@ -115,7 +115,14 @@ To create orthographic view of given 3D model
 4. Enter **55°** and press **Enter**.
 5. Click **Finish Sketch**.
 6. <img width="1920" height="1002" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/82ea6c99-783f-473e-afc1-723448ab48a2" />
+### Counterbored holes in the base
 
+1. Sketch mounting-hole points on the base and dimension their positions.
+2. Choose **Create → Hole**, select the points, and set **Hole Type** to **Counterbore**.
+3. Enter the hole diameter, counterbore diameter, and depth. Set the hole extent to **Through All** if needed.
+4. Check the preview and confirm.
+5. Then choose mirror option to make it on all four corners.
+6. <img width="1920" height="1004" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/46c32b8b-e914-4288-ada7-df955189f20c" />
 ## 8. Create offset planes and side rectangles
 
 1. Choose **Construct → Offset Plane**.
@@ -149,15 +156,6 @@ To create orthographic view of given 3D model
 4. Check the preview for overlaps or failed edges.
 5. Confirm the fillet.
 6. <img width="1920" height="1015" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/547022f8-57b0-47da-bf79-92a793e20488" />
-
-### Counterbored holes in the base
-
-1. Sketch mounting-hole points on the base and dimension their positions.
-2. Choose **Create → Hole**, select the points, and set **Hole Type** to **Counterbore**.
-3. Enter the hole diameter, counterbore diameter, and depth. Set the hole extent to **Through All** if needed.
-4. Check the preview and confirm.
-5. Then choose mirror option to make it on all four corners.
-6. <img width="1920" height="1004" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/46c32b8b-e914-4288-ada7-df955189f20c" />
 
 ## 10. Apply the final edge fillets
 
