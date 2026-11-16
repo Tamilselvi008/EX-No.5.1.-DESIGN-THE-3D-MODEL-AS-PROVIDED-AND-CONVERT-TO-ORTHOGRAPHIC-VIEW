@@ -161,7 +161,8 @@ To create orthographic view of given 3D model
 1. Choose **Modify → Fillet**.
 2. Select the remaining exterior edges that should be rounded. You can select multiple edges, but avoid selecting edges that already have fillets or chamfers if that causes errors.
 3. Enter the required final radius.
-<img width="1920" height="999" alt="Screenshot (397)" src="https://github.com/user-attachments/assets/73089a90-4666-4f45-beee-37daa05bc0b7" />
+<img width="1920" height="1011" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/52ea695a-b567-483c-a11d-f875c77b5afa" />
+
 
 ## 13. Create the drawing
 
