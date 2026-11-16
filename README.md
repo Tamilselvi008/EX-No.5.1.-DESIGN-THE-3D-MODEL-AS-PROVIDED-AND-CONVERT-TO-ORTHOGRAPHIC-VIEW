@@ -37,19 +37,19 @@ To create orthographic view of given 3D model
    - **Ø46 mm**
    - **Ø40 mm**
 5. Use **Sketch Dimension** to set each circle’s diameter accurately.
-6. <img width="1920" height="1015" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/1aead608-fb4c-457f-9b66-3da4b43d1556" />
+<img width="1920" height="1015" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/1aead608-fb4c-457f-9b66-3da4b43d1556" />
 
-7. Create the mounting circles:
+6. Create the mounting circles:
    - Choose **Center Diameter Circle** again.
    - Draw a circle of **radius 6 mm** at each required mounting position.
    - Dimension the center-to-center spacing to **100 mm** as specified.
    - If the mounting circles are equally spaced or symmetric, constrain their centers with symmetry or equal-distance dimensions.
-8. Use **Create → Line** to connect the mounting-circle regions to the **Ø55 mm** circle, as shown in your model.
+7. Use **Create → Line** to connect the mounting-circle regions to the **Ø55 mm** circle, as shown in your model.
    - Make sure line endpoints coincide with the intended circle edges.
    - Add **Coincident** constraints where needed so the sketch remains connected.
-9. Finish the sketch.
-10. Select the closed regions that should form the raised shape and choose **Extrude**.
-11. Set the extrusion height according to your design and confirm. Use **Join** if it should merge with the base.
+8. Finish the sketch.
+9. Select the closed regions that should form the raised shape and choose **Extrude**.
+10. Set the extrusion height according to your design and confirm. Use **Join** if it should merge with the base.
 <img width="1920" height="1015" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/8f17fb5d-a74d-46ce-b466-f2fff89fbd51" />
 
 ## 3. Repeat the raised geometry from the bottom
@@ -113,7 +113,7 @@ To create orthographic view of given 3D model
 3. Move the cursor to position the angular dimension, then click.
 4. Enter **55°** and press **Enter**.
 5. Click **Finish Sketch**.
-6. <img width="1920" height="1002" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/82ea6c99-783f-473e-afc1-723448ab48a2" />
+ <img width="1920" height="1002" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/82ea6c99-783f-473e-afc1-723448ab48a2" />
 ### 8.Counterbored holes in the base
 
 1. Sketch mounting-hole points on the base and dimension their positions.
@@ -121,7 +121,7 @@ To create orthographic view of given 3D model
 3. Enter the hole diameter, counterbore diameter, and depth. Set the hole extent to **Through All** if needed.
 4. Check the preview and confirm.
 5. Then choose mirror option to make it on all four corners.
-6. <img width="1920" height="1004" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/46c32b8b-e914-4288-ada7-df955189f20c" />
+ <img width="1920" height="1004" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/46c32b8b-e914-4288-ada7-df955189f20c" />
 ## 9. Create offset planes and side rectangles
 
 1. Choose **Construct → Offset Plane**.
@@ -132,10 +132,10 @@ To create orthographic view of given 3D model
 6. Draw the required rectangle on that plane using **Create → Rectangle**.
 7. Dimension its width, height, and position from your drawing.
 8. Finish the sketch.
-9. <img width="1920" height="1021" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/d6d97441-7928-4ea7-9b45-4a2b77f9def8" />
+ <img width="1920" height="1021" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/d6d97441-7928-4ea7-9b45-4a2b77f9def8" />
 
-10. Repeat on the second offset plane to draw the matching rectangle.
-11. Select each rectangle profile and use **Extrude** with the appropriate operation and distance to create the side features.
+9. Repeat on the second offset plane to draw the matching rectangle.
+10. Select each rectangle profile and use **Extrude** with the appropriate operation and distance to create the side features.
 
 ## 10. Chamfer both sides
 
