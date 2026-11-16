@@ -188,8 +188,7 @@ To create orthographic view of given 3D model
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-<img width="1920" height="1008" alt="Screenshot (398)" src="https://github.com/user-attachments/assets/27304dc3-1995-4854-9740-3da2238ac686" />
-
+<img width="1920" height="990" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/c3ef55b5-eb70-4350-a59b-0fd9652df11a" />
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
